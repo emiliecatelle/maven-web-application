@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Tesla Web application Project31.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising millionaires in IT automation.
+	           We are raising millionaires amongt which, EMILIE CATELLE in IT automation.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
 	Class32 will start on April 15, 2023. </h1>
 <hr>
